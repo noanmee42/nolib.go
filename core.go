@@ -1,0 +1,5 @@
+package nolib
+
+func Function() {
+
+}
